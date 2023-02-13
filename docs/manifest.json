@@ -1,18 +1,30 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Dev/Projects/Games/Interaction System/docfx_project",
+  "source_base_path": "C:/Dev/Projects/Games/Interaction System Docs",
   "xrefmap": "xrefmap.yml",
   "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "kQ4TOwHW1KHqe+AN+gTBJnk5zB0wYXJHuoDE9u5u/08="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
     {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "NZR4z5BPxL2CTqXFm8a9/R1lUXNFoAUktOvLrawI8Y8="
+          "hash": "eJ9k6V8T6uS/d9/VFR8cIfo9zjslV1ptvDLReO4NOKk="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -33,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "NTW14IctfeqJwuJHss7wX3NZlcOSFLBoGpLHOqMbTaQ="
+          "hash": "4C8tHmaABx7DqS4xwKzMWXWQkdauy8q+CAmIXJzS+xo="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -57,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "8EZ0gJ8JWsY3z80GSqNDWve1wB4Ph5uX36MXC3zkLu8="
+          "hash": "aAkVX2CBaCMRw+orcZrkLwwGUUDJ8LVdQXUO5/w1REA="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -88,8 +100,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 3
+          "total_file_count": 4,
+          "skipped_file_count": 4
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
