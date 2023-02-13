@@ -1,0 +1,5 @@
+- name: Manual
+  href: articles/
+- name: Scripting Reference
+  href: api/
+  homepage: api/index.md
